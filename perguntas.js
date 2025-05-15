@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Artess',
+    'Artes',
     'Quem esceveu a peça de Hamelet?',
     'Wiliam Shakespeare'
 )
